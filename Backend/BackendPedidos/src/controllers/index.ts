@@ -4,3 +4,4 @@ export * from './mascota-plan.controller';
 export * from './usuario.controller';
 export * from './mascota.controller';
 export * from './plan.controller';
+export * from './sucursal.controller';
