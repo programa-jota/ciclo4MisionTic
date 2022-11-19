@@ -6,3 +6,4 @@ export * from './mascota.controller';
 export * from './plan.controller';
 export * from './sucursal.controller';
 export * from './producto.controller';
+export * from './prospecto.controller';
